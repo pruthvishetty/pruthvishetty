@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with best practices of managing a Data Science team.
 - 🎓 I studied at Indiana University in Bloomington. 
 - 💬 Ask me how I prepare the world's best Chai.
-- 📫 How to reach me: DM on Twitter.
+- 📫 How to reach me: DM on Twitter, or Linkedin.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I have a pet bot on Twitter @jarvis_tweets.
 -->
