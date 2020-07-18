@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello, there 👋 
 
+Thanks for taking the time to check out my page!
+
+If you've been redirected here by me/through one of my other accounts, or if you've been [traveling](https://data.whicdn.com/images/307298615/original.gif):  
+- Nice to meet you! 🙋🏻  
 
 A bit about me -
 
