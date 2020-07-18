@@ -2,7 +2,7 @@
 
 
 
-If you've been redirected here by me/through one of my other accounts (or if you've been [*traveling*](https://data.whicdn.com/images/307298615/original.gif)) -  Welcome (back) 🙋🏻  and thanks for taking the time to check out my page!
+If you've been redirected here by me/through one of my other accounts (or if you've been [*traveling*](https://media2.giphy.com/media/xUOxfbQ47hDoRLeZji/giphy.gif?cid=ecf05e47cd113eee23885ce8376f7f6337c9a727fbf43614&rid=giphy.gif)) -  Welcome (back) 🙋🏻  and thanks for taking the time to check out my page!
 
 A bit about me -
 
