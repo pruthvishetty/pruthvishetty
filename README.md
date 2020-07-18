@@ -1,4 +1,4 @@
-## Hello, there :vulcan_salute:
+## Hello, there :vulcan_salute_medium_light_skin_tone:
 
 ### Nice to meet you! 
 
