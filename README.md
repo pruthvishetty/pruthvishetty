@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
+A bit about me -
 
 - 💻 I’m currently working as a Data Scientist & ML Engineer @ Realogy A. I. Labs (Zaplabs) in San Francisco. 🌁
 - 🕒 Previously, I've worked at SAP Labs, Anthem, the Indian Institute of Science and GE.
