@@ -4,7 +4,7 @@ If you've been redirected here by me/through one of my other accounts (or if you
 
 A bit about me -
 
-- 💻  I’m currently working as a Data Scientist & ML Engineer @ Realogy A. I. Labs (Zaplabs) in San Francisco. 🌁
+- 💻  I’m currently working as a Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) in picturesque Emeryville, overlooking the Golden Gate. 🌁 
 - 🕒  Previously, I've worked at SAP Labs, Anthem, the Indian Institute of Science and GE.
 - 🌱  I’m currently learning to work with Streamlit, AWS ML Tools and Go.
 - 👯  I’m looking to collaborate on cool open source Data Science/ML projects.
