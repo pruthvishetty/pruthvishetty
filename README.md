@@ -1,6 +1,6 @@
 ## Hello, there! 🖖🏼
 
-If you've been directed here by me/redirected through one of my other accounts (*or* if you've been [*traveling*](https://media2.giphy.com/media/xUOxfbQ47hDoRLeZji/giphy.gif?cid=ecf05e47cd113eee23885ce8376f7f6337c9a727fbf43614&rid=giphy.gif) ⏳) -  Welcome (back) 🙋🏻  Nice to meet you!
+If you've been directed here by me/redirected through one of my other accounts (*or* if you've been [*traveling*](https://media2.giphy.com/media/xUOxfbQ47hDoRLeZji/giphy.gif?cid=ecf05e47cd113eee23885ce8376f7f6337c9a727fbf43614&rid=giphy.gif) ⏳ ) -  Welcome (back) 🙋🏻  Nice to meet you!
 
 A bit about me -
 
