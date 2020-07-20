@@ -18,7 +18,7 @@ A bit about me 👀
 
 - 🌱 I’m currently learning to work with Streamlit, ML deployment on AWS and programming with Go. (July 2020)
 - 🤔  I’m looking for help with best practices of managing a Data Science team and streamlining ML workflows.
-- 👯  I’m happy to collaborate on cool, open source Data Science/ML projects 🤙🏼 . I do pro bono consulting with Govt. of Karnataka to help answer questions with data. I'm open to volunteering for good causes! :v:
+- 👯  I’m happy to collaborate on cool, open source Data Science/ML projects 🤙🏼 . I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm open to volunteering for good causes! :v:
 - 📫  How to reach me: DM on [Twitter](https://twitter.com/pruthvishetty), or [Linkedin](https://www.linkedin.com/in/pruthvishetty/).
 - 👍 While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (June 2020)
 - 🏆 I enjoy 
