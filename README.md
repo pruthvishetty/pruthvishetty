@@ -7,8 +7,9 @@ A bit about me -
 - 💻 I’m currently working as a Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) in the picturesque San Francisco Bay Area. 🌁 
 - 🕒 Previously, I've worked as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto.
 - 🎓 I studied Computer Science at Indiana University. 
-- 🖥️ During grad school, I interned with the team responsible for implementing Obamacare at Anthem Inc. 
-- 🎒 In India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. 
+- 🎒 During grad school, I interned with the team responsible for implementing Obamacare at Anthem Inc. 
+- 🖥️ In India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. 
+- 
 - 🗺️ So far, I've lived in [Bangalore](youtube.com/watch?v=c8CkE1gWVz0)🇮🇳 , where I grew up 🏠 , Bloomington & Indianapolis, where I went to grad school 🏫 , and the San Francisco Bay Area 🌉 where I've been working.
 - 🌱 I’m currently learning to work with Streamlit, AWS ML Tools and Go.
 - 🤔  I’m looking for help with best practices of managing a Data Science team and streamlining ML workflows.
