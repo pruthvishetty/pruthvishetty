@@ -18,8 +18,8 @@ A bit about me 👀
 
 - I’m currently learning to work with Streamlit, ML deployment on AWS and programming with Go. (July 2020) 🌱 
 - I’m looking for help with: (July 2020) 🤔 
-  * best practices of managing a Data Science team
-  * streamlining ML workflows  
+  * Best practices of managing a Data Science team
+  * Streamlining ML workflows  
   
 - I’m happy to collaborate on cool, open source Data Science/ML projects 😎  I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering for good causes! 🤝
 - 📫  How to reach me: DM me on:
