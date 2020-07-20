@@ -9,7 +9,10 @@ A bit about me 👀
 - 🎓 I studied Computer Science at Indiana University. 
 - 🎒 During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc. 
 - 🖥️ While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers.
-- 🗺️ So far, I've lived in [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 , [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫 , and the [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4) 🌉 where I presently work.
+- 🗺️ So far, I've lived in:
+   * [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
+   * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫 
+   * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4) 🌉 where I presently work.
 
 ![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
