@@ -18,7 +18,7 @@ A bit about me 👀
 - 👯  I’m happy to collaborate on cool, open source Data Science/ML projects 🤙🏼 . I do pro bono consulting with Govt. of Karnataka to help answer questions with data. I'm open to volunteering for good causes! :v:
 - 📫  How to reach me: DM on [Twitter](https://twitter.com/pruthvishetty), or [Linkedin](https://www.linkedin.com/in/pruthvishetty/).
 - 👍 While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (June 2020)
-- 🏆 I enjoy # Unordered list
+- 🏆 I enjoy 
     * Exploring the numerous hikes around the bay area 🏞 
     * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
     * Yoga 🧘 
