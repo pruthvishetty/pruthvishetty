@@ -19,7 +19,10 @@ A bit about me 👀
 - 📫  How to reach me: DM on [Twitter](https://twitter.com/pruthvishetty), or [Linkedin](https://www.linkedin.com/in/pruthvishetty/).
 - 👍 While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (June 2020)
 - 🏆 I enjoy # Unordered list
-* exploring the numerous hikes around the bay area 🏞 , playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ , Yoga 🧘 and swimming 🏊  
+    * Exploring the numerous hikes around the bay area 🏞 
+    * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
+    * Yoga 🧘 
+    * Swimming 🏊  
 - 🧔🏻  Pronouns: He/him 
 - 💬  Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai).
 -  ⚡  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets)
