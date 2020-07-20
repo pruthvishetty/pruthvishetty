@@ -11,7 +11,7 @@ A bit about me -
 - 🖥️ In India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. 
 - 🗺️ So far, I've lived in [Bangalore](youtube.com/watch?v=c8CkE1gWVz0)🇮🇳 , where I grew up 🏠 , Bloomington & Indianapolis, where I went to grad school 🏫 , and the San Francisco Bay Area 🌉 where I've been working.
 
-![Places](https://drive.google.com/file/d/1y5pKWHtpHSM2l3L9-pbRgvPe1Id1yT6F/view?usp=sharing)
+![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
 - 🌱 I’m currently learning to work with Streamlit, AWS ML Tools and Go.
 - 🤔  I’m looking for help with best practices of managing a Data Science team and streamlining ML workflows.
