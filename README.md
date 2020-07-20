@@ -2,7 +2,7 @@
 
 If you've been directed here by me/redirected through one of my other accounts (*or* if you've been [*traveling*](https://media3.giphy.com/media/xUOxfbQ47hDoRLeZji/giphy.gif) ⏳ ) -  Welcome (back), nice to meet you! 👋
 
-A bit about me - 👀
+A bit about me 👀 
 
 - 💻 I’m currently working as a Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) in the picturesque San Francisco Bay Area. 🌁 
 - 🕒 Previously, I've worked as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto.
@@ -17,7 +17,7 @@ A bit about me - 👀
 - 🤔  I’m looking for help with best practices of managing a Data Science team and streamlining ML workflows.
 - 👯  I’m happy to collaborate on cool, open source Data Science/ML projects 🤙🏼 . I do pro bono consulting with Govt. of Karnataka to help answer certain questions with data. I'm open to volunteering for good causes! :v:
 - 📫  How to reach me: DM on [Twitter](https://twitter.com/pruthvishetty), or [Linkedin](https://www.linkedin.com/in/pruthvishetty/).
-- 😄  Pronouns: He/him
+- 🧔🏻  Pronouns: He/him 
 - 💬  Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai).
 -  ⚡  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets)
 
