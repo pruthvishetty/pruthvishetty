@@ -33,10 +33,10 @@ A bit about me 👀
     * Yoga 🧘 
     * Swimming 🏊  
     
-- 🧔🏻  Pronouns: He/him 
-- 💬  Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai).
--  ⚡  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets)
-- 🌐  More about me here: [pruthvishetty.com](https://pruthvishetty.com/)
+-  Pronouns: He/him 🧔🏻 
+- Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai) 💬  
+-  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets) ⚡  
+- More about me here: [pruthvishetty.com](https://pruthvishetty.com/) 🌐  
 
 
 
