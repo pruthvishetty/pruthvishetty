@@ -10,7 +10,7 @@ A bit about me -
 - 🎒 During grad school, I interned with the team responsible for implementing Obamacare at Anthem Inc. 
 - 🖥️ In India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. 
 
-![IISc](http://cds.iisc.ac.in/wp-content/uploads/2014/08/iisc_apc.jpg)
+![IISc](http://cds.iisc.ac.in/wp-content/uploads/2014/08/iisc_apc.jpg = 250x250)
 
 ![B](http://wallpaperswide.com/download/bangalore-wallpaper-1920x1080.jpg)
 
