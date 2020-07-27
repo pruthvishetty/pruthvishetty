@@ -40,10 +40,7 @@ A bit about me 👀
 
 
 
-<!-- hitwebcounter Code START -->
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7549864&style=0025&nbdigits=5&type=page&initCount=0" title="Web Counter" Alt="counter free"   border="0" >
-</a>                                    
+                                 
                                     
                                         
                                           
