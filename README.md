@@ -6,7 +6,7 @@ A bit about me 👀
 
 - I’m currently working as a Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) in the San Francisco Bay Area 💻 
 - Previously, I've worked as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto 🕒 
-- I studied Computer Science at Indiana University in Bloomington 🎓 
+- I studied Computer Science at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
 - While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
 - So far, I've lived in: 🗺️ 
