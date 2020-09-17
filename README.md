@@ -16,7 +16,7 @@ A bit about me 👀
 
 ![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
-- I’m currently learning to work with Streamlit, ML deployment on AWS and programming with Go. (July 2020) 🌱 
+- I’m currently learning to work with Streamlit, ML deployment on AWS and programming with Go. (Sept. 2020) 🌱 
 - I’m looking for help with: (July 2020) 🤔 
   * Best practices of managing a Data Science team
   * Streamlining ML workflows  
@@ -26,7 +26,7 @@ A bit about me 👀
     * [Twitter](https://twitter.com/pruthvishetty)
     * [Linkedin](https://www.linkedin.com/in/pruthvishetty/)
   
-- While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (as of Sept. 2020) 👍 
+- While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. 🏠 
 - I enjoy: 🎖️
     * Exploring the numerous hikes around the bay area 🏞 
     * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
