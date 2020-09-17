@@ -26,7 +26,7 @@ A bit about me 👀
     * [Twitter](https://twitter.com/pruthvishetty)
     * [Linkedin](https://www.linkedin.com/in/pruthvishetty/)
   
-- While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (June 2020) 👍 
+- While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. (as of Sept. 2020) 👍 
 - I enjoy: 🎖️
     * Exploring the numerous hikes around the bay area 🏞 
     * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
