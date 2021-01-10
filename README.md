@@ -68,7 +68,7 @@ A bit about me 👀
 -  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets) ⚡  
 - More about me here: [pruthvishetty.com](https://pruthvishetty.com/) <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="25px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### See you soon! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
                                  
                                     
                                         
