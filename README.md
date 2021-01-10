@@ -8,7 +8,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 <a href="https://twitter.com/pruthvishetty">
   <img align="left" alt="Pruthvi's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.instagram.com/pruthvishetty/">
+<a href="https://www.instagram.com/pruthvishetty">
   <img align="left" alt="Pruthvi's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://medium.com/pruthvi-shetty">
