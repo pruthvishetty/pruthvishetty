@@ -26,6 +26,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
   <img align="left" alt="Pruthvi's Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />
 </a>
 
+
 A bit about me 👀 
 
 - I’m currently working as a Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) in the San Francisco Bay Area 💻 
