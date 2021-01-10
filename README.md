@@ -64,10 +64,9 @@ A bit about me 👀
     * Swimming 🏊  
     
 -  Pronouns: He/him 🧔🏻 
-- Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai) 💬  
+- Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai) <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" width="25px">  
 -  Fun fact: I have a pet bot on [Twitter](https://twitter.com/jarvis_tweets) ⚡  
-- More about me here: [pruthvishetty.com](https://pruthvishetty.com/) 🌐  
-
+- More about me here: [pruthvishetty.com](https://pruthvishetty.com/) <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="25px">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
                                  
