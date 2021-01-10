@@ -1,6 +1,6 @@
-## Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello, world! <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my other accounts -  Welcome (back), nice to meet you!
+Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my other accounts -  Welcome (back), nice to meet you! 
 
 <a href="https://www.linkedin.com/in/pruthvishetty">
   <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
