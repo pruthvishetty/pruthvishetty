@@ -18,8 +18,8 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
   <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/pruthvishetty">
-  <img align="left" alt="Pruthvi's Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
+<a href="https://instagram.com/pruthvishetty">
+  <img align="left" alt="Pruthvi's Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
 
 <a href="https://www.instagram.com/pruthvishetty">
