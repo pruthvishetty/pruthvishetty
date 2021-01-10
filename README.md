@@ -2,6 +2,8 @@
 
 Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my other accounts -  Welcome (back), nice to meet you! 
 
+<span style="background-color:green">
+  
 <a href="https://www.linkedin.com/in/pruthvishetty">
   <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
 </a>
@@ -25,6 +27,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 <a href="mailto: pruthvi1124@gmail.com">
   <img align="left" alt="Pruthvi's Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />
 </a>
+</span>
 
 <br />
 
