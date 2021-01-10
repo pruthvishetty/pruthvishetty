@@ -3,11 +3,11 @@
 Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my other accounts -  Welcome (back), nice to meet you!
 
 <a href="https://www.linkedin.com/in/pruthvishetty">
-  <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
 </a>
 
 <a href="https://www.twitter.com/pruthvishetty">
-  <img align="left" alt="Pruthvi's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Pruthvi's Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />
 </a>
 
 <a href="https://www.instagram.com/pruthvishetty">
@@ -15,15 +15,15 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 </a>
 
 <a href="https://medium.com/pruthvi-shetty">
-  <img align="left" alt="Pruthvi's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" />
+  <img align="left" alt="Pruthvi's Medium" width="22px" src="https://simpleicons.org/icons/medium.svg" />
 </a>
 
 <a href="https://www.youtube.com/channel/UC8BB5u0KBy4NIkwMts2RiLA">
-  <img align="left" alt="Pruthvi's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Pruthvi's Youtube" width="22px" src="https://simpleicons.org/icons/youtube.svg" />
 </a>
 
 <a href="mailto: pruthvi1124@gmail.com">
-  <img align="left" alt="Pruthvi's Email" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Pruthvi's Email" width="22px" src="https://simpleicons.org/icons/gmail.svg" />
 </a>
 
 A bit about me 👀 
