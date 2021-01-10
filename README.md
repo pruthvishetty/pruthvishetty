@@ -37,6 +37,7 @@ A bit about me 👀
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
 - While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
+
 - So far, I've lived in: 🗺️ 
    * [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
    * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫 
@@ -55,7 +56,8 @@ A bit about me 👀
     * [Linkedin](https://www.linkedin.com/in/pruthvishetty/)
   
 - While I miss meeting my colleagues in person at the office, I am liking the flexibility of working from home. 🏠 
-- I enjoy: 🎖️
+- I enjoy: <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="25px"> 
+ 
     * Exploring the numerous hikes around the bay area 🏞 
     * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
     * Yoga 🧘 
