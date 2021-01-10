@@ -1,4 +1,4 @@
-## Hello, world! 🖖
+## Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 If you've been directed here by me/redirected through one of my other accounts -  Welcome (back), nice to meet you! 👋
 
