@@ -5,7 +5,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 <br />
 
 <a href="https://www.linkedin.com/in/pruthvishetty">
-  <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
+  <img align="left" alt="Pruthvi's Linkedin" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />
 </a>
 
 <a href="https://www.twitter.com/pruthvishetty">
