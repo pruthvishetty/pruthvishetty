@@ -24,7 +24,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
   <img align="left" alt="Pruthvi's Youtube" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6089548721530099346-512.png" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC8BB5u0KBy4NIkwMts2RiLA">
+<a href="mailto: pruthvi1124@gmail.com">
   <img align="left" alt="Pruthvi's Youtube" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6089548721530099346-512.png" />
 </a>
 
