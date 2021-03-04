@@ -25,7 +25,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 </a>
 
 <a href="mailto: pruthvi1124@gmail.com">
-  <img align="left" alt="Pruthvi's Email" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16983312581574338606-512.png" />
+  <img align="left" alt="Pruthvi's Email" width="22px" src="https://pics.freeicons.io/uploads/icons/png/3378606541574338608-512.png" />
 </a>
 
 <br />
