@@ -19,12 +19,14 @@ A bit about me 👀
 
 ![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
-- I’m currently learning to work with Streamlit, ML deployment on AWS and programming with Go. (Sept. 2020) 🌱 
-- I’m looking for help with: (July 2020) 🤔 
+- I’m currently learning to work with Streamlit (Mar 2021) 🌱 
+
+- I’m looking for help with/discussing about/learning more about:  🤔 
   * Best practices of managing a Data Science team
   * Streamlining ML workflows  
   
-- I’m happy to collaborate on cool, open source Data Science/ML projects 😎  I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering for good causes! 🤝
+- I’m happy to collaborate on cool, open source Data Science/ML projects 😎  
+- I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering for good causes! 🤝
 - How to reach me? DM me on: 📫 
     * [Twitter](https://twitter.com/pruthvishetty)
     * [Linkedin](https://www.linkedin.com/in/pruthvishetty/)
@@ -35,7 +37,8 @@ A bit about me 👀
     * Exploring the numerous hikes around the bay area 🏞 
     * playing [football](https://media.giphy.com/media/PnPU9GhN3V7oVizSHG/giphy.gif) ⚽ 
     * Yoga 🧘 
-    * Swimming 🏊  
+    * Swimming 🏊 
+    * Photography 📸
     
 -  Pronouns: He/him 🧔🏻 
 - Ask me how I prepare the world's best [Chai](https://en.wikipedia.org/wiki/Masala_chai) <img src="https://media.giphy.com/media/Wm8h2gyEY8VnJeru6f/giphy.gif" width="25px">  
