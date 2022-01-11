@@ -19,7 +19,6 @@ A bit about me 👀
 
 ![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
-- I’m currently learning to work with Streamlit (Mar 2021) 🌱 
 
 - I’m looking for help with/discussing about/learning more about:  🤔 
   * Best practices of managing a Data Science team
