@@ -6,7 +6,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 
 A bit about me 👀 
 
-- I’m currently working as a Sr. Data Scientist & ML Engineer at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Realogy) in the San Francisco Bay Area 💻 
+- I’m currently working as a Sr. Data Scientist & Manager at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Realogy) in the San Francisco Bay Area 💻 
 - Previously, I've worked as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto 🕒 
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
