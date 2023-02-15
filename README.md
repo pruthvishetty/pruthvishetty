@@ -6,26 +6,27 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 
 A bit about me 👀 
 
-- I’m currently working as a Sr. Data Scientist & Manager at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Realogy) in the San Francisco Bay Area 💻 
-- Previously, I've worked as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto 🕒 
+- I'm currently working as a Staff Data Scientist at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻 
+- Previously, I’ve worked as a Sr. Data Scientist at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Anywhere RE) in the San Francisco Bay Area for over 3 years and as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto for over a couple of years 🕒 
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
 - While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
 
 - So far, I've lived in: 🗺️ 
-   * [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
-   * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫 
    * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4) where I currently work 🌉
+   * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫 
+   * [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
+  
 
 ![Places](https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg)
 
 
 - I’m looking for help with/discussing about/learning more about:  🤔 
-  * Best practices of managing a Data Science team
+  * Best practices of building and scaling a Data Science team
   * Streamlining ML workflows  
   
 - I’m happy to collaborate on cool, open source Data Science/ML projects 😎  
-- I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering for good causes! 🤝
+- I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering opportunities for meaningful causes! 🤝
 - How to reach me? DM me on: 📫 
     * [Twitter](https://twitter.com/pruthvishetty)
     * [Linkedin](https://www.linkedin.com/in/pruthvishetty/)
