@@ -6,7 +6,7 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 
 A bit about me 👀 
 
-- I'm currently working as a Staff Data Scientist at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻 
+- I'm currently working as a Staff Data Scientist at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻 where I'm primarily focused on building LLM powered applications aimed to help GTM teams, in addition to traditional ML propensity models models. Ask me how I helped slash RFP response times from weeks to minutes, while greatly improving the quality of responses! ⚡  
 - Previously, I’ve worked as a Sr. Data Scientist at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Anywhere RE) in the San Francisco Bay Area for over three years and as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto for over a couple of years 🕒 
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
