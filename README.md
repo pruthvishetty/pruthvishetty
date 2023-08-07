@@ -23,8 +23,7 @@ A bit about me 👀
 
 
 - I’m looking for help with/discussing about/learning more about:  🤔 
-  * Best practices of building and scaling a Data Science team
-  * Streamlining ML workflows  
+  * Best practices of building and deployment enterprise grade LLM applications.
   
 - I’m happy to collaborate on cool, open source Data Science/ML projects 😎  
 - I do pro bono consulting with [Govt. of Karnataka](https://karnataka.gov.in/english) to help answer questions with data. I'm always open to volunteering opportunities for meaningful causes! 🤝
