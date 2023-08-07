@@ -19,7 +19,7 @@ A bit about me 👀
    * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4) where I currently work 🌉
   
 
-![Places]([https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg](https://drive.google.com/file/d/1QL7KQqNlTt2pNdh6xWqUFd6T5PZaYSJQ/view?usp=sharing))
+![Places]([[https://pruthvishetty.com/wp-content/uploads/2020/07/places-scaled.jpg](Places))
 
 
 - I’m looking for help with/discussing about/learning more about:  🤔 
