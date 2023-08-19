@@ -14,9 +14,9 @@ A bit about me 👀
 
 - So far, I've lived in: 🗺️ 
 
-   * [Bangalore](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
+   * [Bengaluru](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
    * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫
-   * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4) where I currently work 🌉
+   * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4), where I currently work 🌉
   
 
 ![Places](https://github.com/pruthvishetty/pruthvishetty/blob/master/3places.png)
