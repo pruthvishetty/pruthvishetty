@@ -6,18 +6,17 @@ Hi, I'm Pruthvi. If you've been directed here by me/redirected through one of my
 
 A bit about me 👀 
 
-- I'm currently working as a Staff Data Scientist at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻 where I'm primarily focused on building LLM powered applications aimed to help GTM teams, in addition to traditional ML propensity models models. Ask me how I'm helping cut down RFP response times from weeks to minutes, while greatly improving the quality of responses! ⚡  
+- I'm currently working as a Principal AI/ML Engineer at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻. Ask me how I'm helping shorten RFP response times for GTM teams from weeks to minutes, and reduce compliance turnaround from months to days using AI! ⚡  
 - Previously, I’ve worked as a Sr. Data Scientist at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (acquired by Anywhere RE) in the San Francisco Bay Area for over three years and as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto for over a couple of years 🕒 
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
-- While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) at the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
+- While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) in the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
 
 - So far, I've lived in: 🗺️ 
 
    * [Bengaluru](youtube.com/watch?v=c8CkE1gWVz0), where I grew up 🏠 
    * [Bloomington](https://www.youtube.com/watch?v=QhYBx761jWQ), where I went to grad school 🏫
    * [San Francisco Bay Area](https://www.youtube.com/watch?v=h_ayZ-xcMd4), where I currently work 🌉
-  
 
 ![Places](https://github.com/pruthvishetty/pruthvishetty/blob/master/3places.png)
 
