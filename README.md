@@ -6,8 +6,8 @@ Hi, I'm Pruthvi.  Welcome (back), nice to meet you!
 
 A bit about me 👀 
 
-- I'm currently working as a Principal AI/ML Engineer at [Twilio](https://www.twilio.com/en-us/company) in San Francisco 💻. Ask me how I'm helping shorten RFP response times for GTM teams from weeks to minutes, and reduce compliance turnaround from months to days using AI! ⚡  
-- Previously, I’ve worked as a Sr. Data Scientist at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (a prop-tech startup acquired by Anywhere RE) in the San Francisco Bay Area and as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto 🕒 
+- I'm currently working as a Sr. Staff AI Engineer at [Samsara](https://www.samsara.com/) in San Francisco 💻. 
+- Previously, I was a Principal AI/ML Engineer at [Twilio](https://www.twilio.com/en-us/company). I’ve also been a founding Data Scientist at [Zaplabs](https://www.youtube.com/watch?v=mIWpbIKS7FE) (a prop-tech startup acquired by [Compass](https://www.compass.com/)) in the San Francisco Bay Area and as a Data Scientist at [SAP Labs](https://www.youtube.com/watch?v=4ftF5kpBKj0) in Palo Alto 🕒 
 - I studied Computer Science (specializing in Machine Learning & Data Science) at [Indiana University](https://www.youtube.com/watch?v=9zoY11_v7bA) in Bloomington 🎓 
 - During grad school, I interned with the team responsible for implementing [Obamacare](https://media.giphy.com/media/26DOPCEoS8Ntc7suA/giphy.gif) at Anthem Inc 🖥️ 
 - While in India, I worked at the Indian Institute of Science as a Research Assistant to [Prof. Satish Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) in the Dept. of Computational & Data Sciences. I also interned at places like [Unisys](https://www.unisys.com/), [General Electric](https://www.ge.com/) and [Aditi Technologies (Now Harman)](https://www.harman.com/) through my undergrad summers 🎒 
